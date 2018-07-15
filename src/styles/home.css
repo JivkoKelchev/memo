@@ -1,0 +1,11 @@
+.logo{
+    height: 40vh;
+    width: auto;
+    margin-top: 0;
+    z-index: 5;
+
+}
+
+.greetings{
+    color: whitesmoke;
+}

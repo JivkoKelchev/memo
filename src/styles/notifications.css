@@ -1,0 +1,19 @@
+
+.notification {
+    margin-top: 1em;
+    font-size: 1.5em;
+    color: #ffffff;
+    text-align: center;
+    padding:  0.5em 2em 0.5em 2em;
+    border-radius: 10px;
+}
+
+#loadingBox{
+    background: #7CB3E9;
+}
+#infoBox {
+    background: #393;
+}
+#errorBox {
+    background: #F50;
+}

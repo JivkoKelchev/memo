@@ -1,0 +1,38 @@
+.menu{
+    //max-width: 300px;
+    display: flex;
+    justify-content: center;
+}
+.menu-item{
+    text-decoration: none;
+
+}
+.circle{
+
+    color: #024b54;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+
+    border: solid 2px;
+    border-color: #024b54;
+
+    margin : 0 30px 10px 30px;
+
+    font-size: 30px;
+    background-color: #00b0c8;
+    box-shadow: 0 0 25px #2ffe00, 0 0 10px #fafbef;
+}
+.circle:hover{
+    color: whitesmoke;
+}
+
+.navigation{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.left{
+    display: flex;
+}
